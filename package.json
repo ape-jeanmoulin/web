@@ -1,0 +1,33 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.3.0"
+  },
+  "devDependencies": {
+    "@asciidoctor/reveal.js": "^4.0.1",
+    "asciidoctor": "^2.1.1",
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-exec": "^3.0.2",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-tap": "^1.0.1",
+    "map-stream": "^0.0.7",
+    "mermaid.cli": "^0.5.1",
+    "opal": "^0.6.4"
+  },
+  "scripts": {
+    "test": "echo \"no test\" && exit 0",
+    "build": "gulp default",
+    "serve": "gulp serve",
+    "build-diagrams": "gulp copy-and-generate-mermaid-png",
+    "lint": "echo \"no lint\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}

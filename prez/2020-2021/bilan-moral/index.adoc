@@ -1,0 +1,19 @@
+[.main-title.background]
+= Bilan moral
+:source-highlighter: highlightjs
+:revealjs_theme: simple
+:revealjs_progress: true
+:revealjs_slideNumber: true
+:revealjs_history: true
+:customcss: styles.css
+
+include::content/quotidien.adoc[leveloffset=+1]
+
+include::content/instances.adoc[leveloffset=+1]
+
+include::content/activites.adoc[leveloffset=+1]
+
+include::content/communication.adoc[leveloffset=+1]
+
+[.derniere.background]
+== !

@@ -1,0 +1,88 @@
+.title h1 {
+    text-transform: none;
+    text-align: left;
+    color: #089f98;
+}
+
+.title p {
+    text-transform: none;
+    text-align: left;
+    color: #fdb500;
+}
+
+div.title {
+    background-image: url("logo/logo.png");
+    background-size:  40% auto;
+    background-position: -5% center;
+    background-repeat: no-repeat;
+    padding-left: 28%;
+    max-width: 72%;
+}
+
+section.title.present:not(.stack) {
+    padding-left: 35%;
+}
+
+
+div.backgrounds .main-part {
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    background-position: 125% -15%;
+    background-image: none
+}
+
+
+section.main-part.present:not(.stack) {
+}
+
+.main-part h2 {
+    text-shadow: none;
+    font-size: 4em;
+    text-align: left;
+    color: #e5007f;
+}
+
+.main-part p {
+    text-shadow: none;
+    color: #ee4d17;
+}
+
+
+
+div.backgrounds .annule {
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    background-position: 125% -15%;
+    background-image: none
+}
+
+
+section.annule.present:not(.stack) {
+}
+
+.annule h2 {
+    text-decoration: line-through;
+}
+
+div.backgrounds .pause {
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    background-position: center center;
+    background-image: url("logo/Logo_NB.png");
+    background-color: #089f98;
+}
+
+section.pause.present:not(.stack) {
+}
+
+
+div.backgrounds .derniere {
+    background-repeat: no-repeat;
+    background-size: auto 80%, auto 2.5em;
+    background-position: center center;
+    background-image: url("logo/logo.png");
+    background-color: white;
+}
+
+section.derniere.present:not(.stack) {
+}

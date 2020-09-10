@@ -1,0 +1,30 @@
+[.main-part.background]
+= Dans le quotidien
+
+[NOTE.speaker]
+====
+Clairement du jauger, paws vraiment de chiffres
+====
+
+== Accompagnements
+
+[NOTE.speaker]
+====
+* Sorties
+* Piscine
+====
+
+== Interventions ponctuelles
+
+[NOTE.speaker]
+====
+Plus à la marge
+====
+
+[.pause.background]
+== !
+
+[NOTE.speaker]
+====
+Une vingtaine de familles
+====

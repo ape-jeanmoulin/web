@@ -1,0 +1,35 @@
+[.main-part.background]
+= Instances
+
+[NOTE.speaker]
+====
+* Nous 'assocition' avons peu d'impact
+* Favoriser les communications/échanges
+* (si besoin) avoir une autre forme de représentativité
+====
+
+== Représentants des parents
+
+[NOTE.speaker]
+====
+* 2 par classes
+* 3 conseil d'école
+** Enseignants, parents, la municipalité
+====
+
+== Commité consultatif
+
+[NOTE.speaker]
+====
+* Temps périscolaire (+cantine)
+* Représentant des deux écoles et la municipalité.
+====
+
+[.pause.background]
+== !
+
+[NOTE.speaker]
+====
+* 14 représentants au CE
+* 2 représentants au CC
+====

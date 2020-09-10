@@ -1,0 +1,24 @@
+[.main-part.background]
+= Communication
+
+[NOTE.speaker]
+====
+Toujours à s'améliorer +
+=> c'est un effort permenant.
+====
+
+== Quelques actions
+
+[NOTE.speaker]
+====
+* Fiabilisation de nos contacts mails
+* Mis en place de canaux de communication "a distance" (Slack)
+* Publication régulière sur Facebook (Première moitié de l'année)
+====
+
+[.pause.background]
+== !
+
+[NOTE.speaker]
+====
+====

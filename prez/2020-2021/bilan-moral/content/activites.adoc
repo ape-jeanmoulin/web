@@ -1,0 +1,48 @@
+[.main-part.background]
+= Activités
+
+[NOTE.speaker]
+====
+2 objectifs ::
+* Financier
+* Fédérateur
+====
+
+== Actions
+
+[NOTE.speaker]
+====
+* Vente de jus de pomme
+* Vente de chocolats
+* Boom (confiserie)
+* Annulées
+** Vente d'objet
+====
+
+== Evènements
+
+[NOTE.speaker]
+====
+* Bourse aux jouets
+* Fête de Noël
+* Annulées
+** Vide Grenier
+** Fête de l'école
+====
+
+== Animation
+
+[NOTE.speaker]
+====
+* Spectacle des parents
+====
+
+[.pause.background]
+== !
+
+[NOTE.speaker]
+====
+* Spectacle - 15 parents
+* Organisation - Une dizaine
+* Bénévole - Une quarantaine
+====

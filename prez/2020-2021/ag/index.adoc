@@ -1,0 +1,19 @@
+[.main-title.background]
+= Assemblée générale
+:source-highlighter: highlightjs
+:revealjs_theme: simple
+:revealjs_progress: true
+:revealjs_slideNumber: true
+:revealjs_history: true
+:customcss: styles.css
+
+14 septembre 2020
+
+include::content/organisation.adoc[leveloffset=+1]
+
+include::content/attentes.adoc[leveloffset=+1]
+
+include::content/projection.adoc[leveloffset=+1]
+
+[.derniere.background]
+== !
